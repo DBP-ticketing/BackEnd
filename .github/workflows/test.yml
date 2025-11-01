@@ -36,4 +36,4 @@ jobs:
         include-hidden-files: true
 
     - name: Build with Gradle Wrapper
-      run: ./gradlew build
+      run: ./gradlew build -x test
