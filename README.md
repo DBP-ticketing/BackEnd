@@ -2,12 +2,14 @@
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/21a40c1c-41e9-4963-9aa0-467414a26771"
+    src="https://github.com/user-attachments/assets/00dcedc8-af5b-4e9e-a9a3-c90be6d6c082"
     width="250"
     height="250"
     style="border-radius: 16px;"
   />
 </p>
+
+
 
 ## 목차
 - [프로젝트 소개](#프로젝트-소개)
@@ -118,8 +120,6 @@ MOL 티케팅은 공연 티켓 오픈 시 발생하는 폭발적인 트래픽과
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Tools
@@ -131,7 +131,8 @@ MOL 티케팅은 공연 티켓 오픈 시 발생하는 폭발적인 트래픽과
 
 ### 시스템 구조
 
-<img width="3340" alt="시스템 아키텍처" src="https://github.com/user-attachments/assets/5847b468-c9b2-4007-b9ea-1ccc8321fcf0" />
+<img width="3038" height="1342" alt="image" src="https://github.com/user-attachments/assets/396b2bb4-225a-46e2-9d1c-a2157e74e0a5" />
+
 
 ### ERD
 
