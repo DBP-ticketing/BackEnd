@@ -64,8 +64,8 @@ MOL 티케팅은 공연 티켓 오픈 시 발생하는 폭발적인 트래픽과
 - 스케줄러를 통한 자동 예매 오픈
 
 ### 3. Redis 기반 대기열 시스템 🔥
+<img width="752" height="343" alt="image" src="https://github.com/user-attachments/assets/d3f22955-1136-485a-a500-0b281864f4df" />
 
-**[대기열 흐름도 이미지 위치]**
 
 #### 대기열 관리
 - **진입 시점**: 이벤트 페이지 접속 시 자동으로 대기열 등록
@@ -192,7 +192,7 @@ MOL 티케팅은 공연 티켓 오픈 시 발생하는 폭발적인 트래픽과
    - Payment: READY → APPROVED
 
 ## 기능 시연
-
+![MOL_시연영상+(1) (1)](https://github.com/user-attachments/assets/75dcaa78-064e-4537-a6a6-4251194474c6)
 
 
 
