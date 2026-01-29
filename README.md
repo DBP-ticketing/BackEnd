@@ -19,7 +19,7 @@
 - [기술 스택](#기술-스택)
 - [시스템 아키텍처](#시스템-아키텍처)
 - [핵심 기술 구현](#핵심-기술-구현)
-- [기능 시연](#기능-시연)
+- [시연 영상](#시연-영상)
 - [트러블슈팅](#트러블슈팅)
 - [프로젝트 회고](#프로젝트-회고)
 
@@ -193,8 +193,16 @@ MOL 티케팅은 공연 티켓 오픈 시 발생하는 폭발적인 트래픽과
    - Payment: READY → APPROVED
 
 ## 기능 시연
-![MOL_시연영상+(1) (1)](https://github.com/user-attachments/assets/75dcaa78-064e-4537-a6a6-4251194474c6)
 
+### 관리자 (장소 생성)
+https://github.com/user-attachments/assets/1a9cbdc4-a5c9-42ec-b38a-3522348685ce
+
+### 호스트 (이벤트 생성)
+
+https://github.com/user-attachments/assets/51746eed-8582-4af3-911a-ec0b6a1d0e91
+
+### 유저 (티켓 예매 -> 예매 내역 확인)
+https://github.com/user-attachments/assets/9487076a-032e-4a3b-ae99-220e78fb1dc6
 
 
 ## 트러블슈팅
